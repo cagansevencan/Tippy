@@ -16,7 +16,8 @@ The following **Calculating Tips** functionality is complete:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://imgur.com/a/krlo1gl.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![demo1](https://user-images.githubusercontent.com/36283663/50869119-91c9ee00-1367-11e9-8bcf-409f2c61bdae.gif)
+
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
